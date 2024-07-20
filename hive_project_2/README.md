@@ -13,6 +13,17 @@ By the medium of Average monthly charges for contract type parameter we can tell
 ### UC_003 : Technical Scenario : Create the bucketed version of the table for future optimisations
   ![image](https://github.com/user-attachments/assets/223fdcb5-c93e-4951-b81d-50292ccd17b7)
 
+### UC_004 : Technical Scenario : Differences between map side join , bucketed join and sorted merge join 
+#### Map Side Join
+![image](https://github.com/user-attachments/assets/d40aa323-6f5a-40d6-bc5b-4fdd90fe5dc6)
+#### Bucketed join 
+![image](https://github.com/user-attachments/assets/46e8fe94-afb4-44c3-8941-83717b536286)
+#### Sorted merge bucket join 
+![image](https://github.com/user-attachments/assets/95e783b7-2a6d-4151-89b4-240d1eb6ca3e)
+We observed that when we are using the bucket join, we are joining at the mapping phase itself , by-passing the creation of reducers and hence optimising the join operations
+
+
+
 
   
 
