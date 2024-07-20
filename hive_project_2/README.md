@@ -10,5 +10,9 @@
 By the medium of Average monthly charges for contract type parameter we can tell the users how they can save money according to the contract type. 
   ![image](https://github.com/user-attachments/assets/691340de-1e4e-44c1-b78c-2a2038d590ee)
 
+### UC_003 : Technical Scenario : Create the bucketed version of the table for future optimisations
+  ![image](https://github.com/user-attachments/assets/223fdcb5-c93e-4951-b81d-50292ccd17b7)
+
+
   
 
