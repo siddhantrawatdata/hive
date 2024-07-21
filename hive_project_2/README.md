@@ -1,3 +1,12 @@
+# Hadoop Commands used during the analysis
+###### hadoop fs -ls / 
+  Used to list the files in a folder
+###### hadoop fs -head filename
+  Used to view the top 10 rows in a file
+###### hadoop fs -put /local/filename /tmp/filename
+  USed to move the file from local to HDFS
+
+
 # Use Cases
 ### UC_001 - Analyze the distribution of customers based on gender and SeniorCitizen status.
   According to the result set displayed below we have the number of senior females , senior males , males , females . We can comprehend that senior females make up most of the user base for our services. This means that we can provide them few vouchers and gift coupons so we can maintain the customer base and expand. 
