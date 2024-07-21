@@ -22,6 +22,10 @@ By the medium of Average monthly charges for contract type parameter we can tell
 ![image](https://github.com/user-attachments/assets/95e783b7-2a6d-4151-89b4-240d1eb6ca3e)
 We observed that when we are using the bucket join, we are joining at the mapping phase itself , by-passing the creation of reducers and hence optimising the join operations
 
+### UC_005 : Calculate the churn rate (percentage of customers who left) for each InternetService category.
+![image](https://github.com/user-attachments/assets/347998a1-bce4-4832-a595-e3f6f39d7fdf)
+This metric will tell us, by which internet service our customers are most dis-satisfied. We can then work on it by organising workshops and improving our srvices and decrease the churn rate
+
 
 
 
